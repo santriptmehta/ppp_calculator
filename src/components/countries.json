@@ -1,0 +1,63 @@
+[
+    {
+      "name": "United States",
+      "currency": "$",
+      "pppRate": 1.0,
+      "code": "USD"
+    },
+    {
+      "name": "India",
+      "currency": "INR",
+      "pppRate": 20.2,
+      "code": "INR"
+    },
+    {
+      "name": "United Kingdom",
+      "currency": "£",
+      "pppRate": 0.7,
+      "code": "GBP"
+    },
+    {
+      "name": "Japan",
+      "currency": "¥",
+      "pppRate": 102.5,
+      "code": "JPY"
+    },
+    {
+      "name": "Canada",
+      "currency": "C$",
+      "pppRate": 1.2,
+      "code": "CAD"
+    },
+    {
+      "name": "Australia",
+      "currency": "A$",
+      "pppRate": 1.4,
+      "code": "AUD"
+    },
+    {
+      "name": "Euro Area",
+      "currency": "€",
+      "pppRate": 0.8,
+      "code": "EUR"
+    },
+    {
+      "name": "China",
+      "currency": "¥",
+      "pppRate": 3.5,
+      "code": "CNY"
+    },
+    {
+      "name": "Brazil",
+      "currency": "R$",
+      "pppRate": 2.1,
+      "code": "BRL"
+    },
+    {
+      "name": "South Korea",
+      "currency": "₩",
+      "pppRate": 860.2,
+      "code": "KRW"
+    }
+  ]
+  
