@@ -16,10 +16,8 @@ export default function PPPCalculator() {
     setCountries(countriesData)
   }, [])
 
-  // Calculate equivalent amount based on PPP rates
   const calculateEquivalent = (homeCountry, targetCountry, amount) => {
-    // This is a simplified calculation
-    // In a real app, you would use actual PPP conversion rates
+
     const homeRate = countries.find((c) => c.name === homeCountry)?.pppRate || 1
     const targetRate = countries.find((c) => c.name === targetCountry)?.pppRate || 1
 
@@ -31,31 +29,28 @@ export default function PPPCalculator() {
 
   const handleAmountChange = (e) => {
     setAmount(e.target.value)
-    // In a real app, you would calculate the equivalent amount here
     const newEquivalent = calculateEquivalent(homeCountry, targetCountry, e.target.value)
     setEquivalentAmount(newEquivalent)
   }
 
   const handleHomeCountryChange = (e) => {
     setHomeCountry(e.target.value)
-    // Recalculate equivalent amount
     const newEquivalent = calculateEquivalent(e.target.value, targetCountry, amount)
     setEquivalentAmount(newEquivalent)
   }
 
   const handleTargetCountryChange = (e) => {
     setTargetCountry(e.target.value)
-    // Recalculate equivalent amount
     const newEquivalent = calculateEquivalent(homeCountry, e.target.value, amount)
     setEquivalentAmount(newEquivalent)
   }
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-50">
+    <div className="flex justify-center items-center min-h-screen bg-gray-200 ">
       <div className="w-full max-w-md">
         <h1 className="text-3xl font-bold text-center mb-8">Purchasing Power Parity Calculator</h1>
 
-        <div className="bg-white rounded-lg overflow-hidden shadow border">
+        <div className="bg-white rounded-lg overflow-hidden shadow ">
           {/* Header */}
           <div className="bg-emerald-500 text-white p-4">
             <div className="flex items-center">
@@ -90,7 +85,7 @@ export default function PPPCalculator() {
                 Amount
               </label>
               <div className="relative">
-                <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-gray-500">$</span>
+                <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-gray-500"></span>
                 <input
                   type="text"
                   id="amount"

@@ -1,1154 +1,1154 @@
 [
     {
-        "country": "Afghanistan",
-        "country_code": "AF",
-        "currency_symbol": "AF",
+        "name": "Afghanistan",
+        "code": "AF",
+        "currency": "AF",
         "ppp": 14.8064
     },
     {
-        "country": "Albania",
-        "country_code": "AL",
-        "currency_symbol": "L",
+        "name": "Albania",
+        "code": "AL",
+        "currency": "L",
         "ppp": 40.6941
     },
     {
-        "country": "Algeria",
-        "country_code": "DZ",
-        "currency_symbol": "AL",
+        "name": "Algeria",
+        "code": "DZ",
+        "currency": "AL",
         "ppp": 43.3098
     },
     {
-        "country": "Andorra",
-        "country_code": "AD",
-        "currency_symbol": "AN",
+        "name": "Andorra",
+        "code": "AD",
+        "currency": "AN",
         "ppp": 0.6036
     },
     {
-        "country": "Angola",
-        "country_code": "AO",
-        "currency_symbol": "Kz",
+        "name": "Angola",
+        "code": "AO",
+        "currency": "Kz",
         "ppp": 209.7942
     },
     {
-        "country": "Antigua and Barbuda",
-        "country_code": "AG",
-        "currency_symbol": "?",
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "currency": "?",
         "ppp": 1.8298
     },
     {
-        "country": "Argentina",
-        "country_code": "AR",
-        "currency_symbol": "?",
+        "name": "Argentina",
+        "code": "AR",
+        "currency": "?",
         "ppp": 139.7219
     },
     {
-        "country": "Armenia",
-        "country_code": "AM",
-        "currency_symbol": "?",
+        "name": "Armenia",
+        "code": "AM",
+        "currency": "?",
         "ppp": 148.0915
     },
     {
-        "country": "Aruba",
-        "country_code": "AW",
-        "currency_symbol": "?",
+        "name": "Aruba",
+        "code": "AW",
+        "currency": "?",
         "ppp": 1.3528
     },
     {
-        "country": "Australia",
-        "country_code": "AU",
-        "currency_symbol": "?",
+        "name": "Australia",
+        "code": "AU",
+        "currency": "?",
         "ppp": 1.3692
     },
     {
-        "country": "Austria",
-        "country_code": "AT",
-        "currency_symbol": "?",
+        "name": "Austria",
+        "code": "AT",
+        "currency": "?",
         "ppp": 0.7372
     },
     {
-        "country": "Azerbaijan",
-        "country_code": "AZ",
-        "currency_symbol": "?",
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "currency": "?",
         "ppp": 0.5134
     },
     {
-        "country": "Bahamas, The",
-        "country_code": "BS",
-        "currency_symbol": "?",
+        "name": "Bahamas, The",
+        "code": "BS",
+        "currency": "?",
         "ppp": 0.977
     },
     {
-        "country": "Bahrain",
-        "country_code": "BH",
-        "currency_symbol": "?",
+        "name": "Bahrain",
+        "code": "BH",
+        "currency": "?",
         "ppp": 0.173
     },
     {
-        "country": "Bangladesh",
-        "country_code": "BD",
-        "currency_symbol": "?",
+        "name": "Bangladesh",
+        "code": "BD",
+        "currency": "?",
         "ppp": 28.6307
     },
     {
-        "country": "Barbados",
-        "country_code": "BB",
-        "currency_symbol": "?",
+        "name": "Barbados",
+        "code": "BB",
+        "currency": "?",
         "ppp": 2.2313
     },
     {
-        "country": "Belarus",
-        "country_code": "BY",
-        "currency_symbol": "?",
+        "name": "Belarus",
+        "code": "BY",
+        "currency": "?",
         "ppp": 0.7654
     },
     {
-        "country": "Belgium",
-        "country_code": "BE",
-        "currency_symbol": "?",
+        "name": "Belgium",
+        "code": "BE",
+        "currency": "?",
         "ppp": 0.7343
     },
     {
-        "country": "Belize",
-        "country_code": "BZ",
-        "currency_symbol": "?",
+        "name": "Belize",
+        "code": "BZ",
+        "currency": "?",
         "ppp": 1.0793
     },
     {
-        "country": "Benin",
-        "country_code": "BJ",
-        "currency_symbol": "?",
+        "name": "Benin",
+        "code": "BJ",
+        "currency": "?",
         "ppp": 204.7915
     },
     {
-        "country": "Bermuda",
-        "country_code": "BM",
-        "currency_symbol": "?",
+        "name": "Bermuda",
+        "code": "BM",
+        "currency": "?",
         "ppp": 1.1565
     },
     {
-        "country": "Bolivia",
-        "country_code": "BO",
-        "currency_symbol": "?",
+        "name": "Bolivia",
+        "code": "BO",
+        "currency": "?",
         "ppp": 2.3315
     },
     {
-        "country": "Bosnia and Herzegovina",
-        "country_code": "BA",
-        "currency_symbol": "?",
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "currency": "?",
         "ppp": 0.698
     },
     {
-        "country": "Botswana",
-        "country_code": "BW",
-        "currency_symbol": "?",
+        "name": "Botswana",
+        "code": "BW",
+        "currency": "?",
         "ppp": 5.0834
     },
     {
-        "country": "Brazil",
-        "country_code": "BR",
-        "currency_symbol": "?",
+        "name": "Brazil",
+        "code": "BR",
+        "currency": "?",
         "ppp": 2.436
     },
     {
-        "country": "Brunei Darussalam",
-        "country_code": "BN",
-        "currency_symbol": "?",
+        "name": "Brunei Darussalam",
+        "code": "BN",
+        "currency": "?",
         "ppp": 0.5192
     },
     {
-        "country": "Bulgaria",
-        "country_code": "BG",
-        "currency_symbol": "?",
+        "name": "Bulgaria",
+        "code": "BG",
+        "currency": "?",
         "ppp": 0.7681
     },
     {
-        "country": "Burkina Faso",
-        "country_code": "BF",
-        "currency_symbol": "?",
+        "name": "Burkina Faso",
+        "code": "BF",
+        "currency": "?",
         "ppp": 194.3625
     },
     {
-        "country": "Burundi",
-        "country_code": "BI",
-        "currency_symbol": "?",
+        "name": "Burundi",
+        "code": "BI",
+        "currency": "?",
         "ppp": 723.8945
     },
     {
-        "country": "Cabo Verde",
-        "country_code": "CV",
-        "currency_symbol": "?",
+        "name": "Cabo Verde",
+        "code": "CV",
+        "currency": "?",
         "ppp": 47.9066
     },
     {
-        "country": "Cambodia",
-        "country_code": "KH",
-        "currency_symbol": "?",
+        "name": "Cambodia",
+        "code": "KH",
+        "currency": "?",
         "ppp": 1345.0726
     },
     {
-        "country": "Cameroon",
-        "country_code": "CM",
-        "currency_symbol": "?",
+        "name": "Cameroon",
+        "code": "CM",
+        "currency": "?",
         "ppp": 194.8964
     },
     {
-        "country": "Canada",
-        "country_code": "CA",
-        "currency_symbol": "?",
+        "name": "Canada",
+        "code": "CA",
+        "currency": "?",
         "ppp": 1.1373
     },
     {
-        "country": "Cayman Islands",
-        "country_code": "KY",
-        "currency_symbol": "?",
+        "name": "Cayman Islands",
+        "code": "KY",
+        "currency": "?",
         "ppp": 0.9397
     },
     {
-        "country": "Central African Republic",
-        "country_code": "CF",
-        "currency_symbol": "?",
+        "name": "Central African Republic",
+        "code": "CF",
+        "currency": "?",
         "ppp": 238.7998
     },
     {
-        "country": "Chad",
-        "country_code": "TD",
-        "currency_symbol": "?",
+        "name": "Chad",
+        "code": "TD",
+        "currency": "?",
         "ppp": 221.4961
     },
     {
-        "country": "Chile",
-        "country_code": "CL",
-        "currency_symbol": "?",
+        "name": "Chile",
+        "code": "CL",
+        "currency": "?",
         "ppp": 435.8956
     },
     {
-        "country": "China",
-        "country_code": "CN",
-        "currency_symbol": "Yen",
+        "name": "China",
+        "code": "CN",
+        "currency": "Yen",
         "ppp": 3.637
     },
     {
-        "country": "Colombia",
-        "country_code": "CO",
-        "currency_symbol": "?",
+        "name": "Colombia",
+        "code": "CO",
+        "currency": "?",
         "ppp": 1453.5852
     },
     {
-        "country": "Comoros",
-        "country_code": "KM",
-        "currency_symbol": "?",
+        "name": "Comoros",
+        "code": "KM",
+        "currency": "?",
         "ppp": 186.3391
     },
     {
-        "country": "Congo, Dem. Rep.",
-        "country_code": "CD",
-        "currency_symbol": "?",
+        "name": "Congo, Dem. Rep.",
+        "code": "CD",
+        "currency": "?",
         "ppp": 949.2435
     },
     {
-        "country": "Congo, Rep.",
-        "country_code": "CG",
-        "currency_symbol": "?",
+        "name": "Congo, Rep.",
+        "code": "CG",
+        "currency": "?",
         "ppp": 219.4169
     },
     {
-        "country": "Costa Rica",
-        "country_code": "CR",
-        "currency_symbol": "?",
+        "name": "Costa Rica",
+        "code": "CR",
+        "currency": "?",
         "ppp": 327.8834
     },
     {
-        "country": "Cote d'Ivoire",
-        "country_code": "CI",
-        "currency_symbol": "?",
+        "name": "Cote d'Ivoire",
+        "code": "CI",
+        "currency": "?",
         "ppp": 213.2816
     },
     {
-        "country": "Croatia",
-        "country_code": "HR",
-        "currency_symbol": "?",
+        "name": "Croatia",
+        "code": "HR",
+        "currency": "?",
         "ppp": 0.4446
     },
     {
-        "country": "Curacao",
-        "country_code": "CW",
-        "currency_symbol": "?",
+        "name": "Curacao",
+        "code": "CW",
+        "currency": "?",
         "ppp": 1.2391
     },
     {
-        "country": "Cyprus",
-        "country_code": "CY",
-        "currency_symbol": "?",
+        "name": "Cyprus",
+        "code": "CY",
+        "currency": "?",
         "ppp": 0.5924
     },
     {
-        "country": "Czechia",
-        "country_code": "CZ",
-        "currency_symbol": "?",
+        "name": "Czechia",
+        "code": "CZ",
+        "currency": "?",
         "ppp": 13.2115
     },
     {
-        "country": "Denmark",
-        "country_code": "DK",
-        "currency_symbol": "?",
+        "name": "Denmark",
+        "code": "DK",
+        "currency": "?",
         "ppp": 6.4126
     },
     {
-        "country": "Djibouti",
-        "country_code": "DJ",
-        "currency_symbol": "?",
+        "name": "Djibouti",
+        "code": "DJ",
+        "currency": "?",
         "ppp": 88.9354
     },
     {
-        "country": "Dominica",
-        "country_code": "DM",
-        "currency_symbol": "?",
+        "name": "Dominica",
+        "code": "DM",
+        "currency": "?",
         "ppp": 1.3732
     },
     {
-        "country": "Dominican Republic",
-        "country_code": "DO",
-        "currency_symbol": "?",
+        "name": "Dominican Republic",
+        "code": "DO",
+        "currency": "?",
         "ppp": 23.4888
     },
     {
-        "country": "Ecuador",
-        "country_code": "EC",
-        "currency_symbol": "?",
+        "name": "Ecuador",
+        "code": "EC",
+        "currency": "?",
         "ppp": 0.4115
     },
     {
-        "country": "Egypt, Arab Rep.",
-        "country_code": "EG",
-        "currency_symbol": "?",
+        "name": "Egypt, Arab Rep.",
+        "code": "EG",
+        "currency": "?",
         "ppp": 4.7873
     },
     {
-        "country": "El Salvador",
-        "country_code": "SV",
-        "currency_symbol": "?",
+        "name": "El Salvador",
+        "code": "SV",
+        "currency": "?",
         "ppp": 0.4259
     },
     {
-        "country": "Equatorial Guinea",
-        "country_code": "GQ",
-        "currency_symbol": "?",
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "currency": "?",
         "ppp": 232.6363
     },
     {
-        "country": "Estonia",
-        "country_code": "EE",
-        "currency_symbol": "?",
+        "name": "Estonia",
+        "code": "EE",
+        "currency": "?",
         "ppp": 0.5971
     },
     {
-        "country": "Eswatini",
-        "country_code": "SZ",
-        "currency_symbol": "?",
+        "name": "Eswatini",
+        "code": "SZ",
+        "currency": "?",
         "ppp": 5.9251
     },
     {
-        "country": "Ethiopia",
-        "country_code": "ET",
-        "currency_symbol": "?",
+        "name": "Ethiopia",
+        "code": "ET",
+        "currency": "?",
         "ppp": 22.1628
     },
     {
-        "country": "Faroe Islands",
-        "country_code": "FO",
-        "currency_symbol": "?",
+        "name": "Faroe Islands",
+        "code": "FO",
+        "currency": "?",
         "ppp": 6.3264
     },
     {
-        "country": "Fiji",
-        "country_code": "FJ",
-        "currency_symbol": "?",
+        "name": "Fiji",
+        "code": "FJ",
+        "currency": "?",
         "ppp": 0.8745
     },
     {
-        "country": "Finland",
-        "country_code": "FI",
-        "currency_symbol": "?",
+        "name": "Finland",
+        "code": "FI",
+        "currency": "?",
         "ppp": 0.7949
     },
     {
-        "country": "France",
-        "country_code": "FR",
-        "currency_symbol": "?",
+        "name": "France",
+        "code": "FR",
+        "currency": "?",
         "ppp": 0.7106
     },
     {
-        "country": "Gabon",
-        "country_code": "GA",
-        "currency_symbol": "?",
+        "name": "Gabon",
+        "code": "GA",
+        "currency": "?",
         "ppp": 228.017
     },
     {
-        "country": "Gambia, The",
-        "country_code": "GM",
-        "currency_symbol": "?",
+        "name": "Gambia, The",
+        "code": "GM",
+        "currency": "?",
         "ppp": 16.709
     },
     {
-        "country": "Georgia",
-        "country_code": "GE",
-        "currency_symbol": "?",
+        "name": "Georgia",
+        "code": "GE",
+        "currency": "?",
         "ppp": 0.8683
     },
     {
-        "country": "Germany",
-        "country_code": "DE",
-        "currency_symbol": "?",
+        "name": "Germany",
+        "code": "DE",
+        "currency": "?",
         "ppp": 0.7281
     },
     {
-        "country": "Ghana",
-        "country_code": "GH",
-        "currency_symbol": "?",
+        "name": "Ghana",
+        "code": "GH",
+        "currency": "?",
         "ppp": 3.3023
     },
     {
-        "country": "Greece",
-        "country_code": "GR",
-        "currency_symbol": "?",
+        "name": "Greece",
+        "code": "GR",
+        "currency": "?",
         "ppp": 0.5269
     },
     {
-        "country": "Grenada",
-        "country_code": "GD",
-        "currency_symbol": "?",
+        "name": "Grenada",
+        "code": "GD",
+        "currency": "?",
         "ppp": 1.6145
     },
     {
-        "country": "Guatemala",
-        "country_code": "GT",
-        "currency_symbol": "?",
+        "name": "Guatemala",
+        "code": "GT",
+        "currency": "?",
         "ppp": 3.2824
     },
     {
-        "country": "Guinea",
-        "country_code": "GN",
-        "currency_symbol": "?",
+        "name": "Guinea",
+        "code": "GN",
+        "currency": "?",
         "ppp": 2992.2036
     },
     {
-        "country": "Guinea-Bissau",
-        "country_code": "GW",
-        "currency_symbol": "?",
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "currency": "?",
         "ppp": 201.6005
     },
     {
-        "country": "Guyana",
-        "country_code": "GY",
-        "currency_symbol": "?",
+        "name": "Guyana",
+        "code": "GY",
+        "currency": "?",
         "ppp": 79.1048
     },
     {
-        "country": "Haiti",
-        "country_code": "HT",
-        "currency_symbol": "?",
+        "name": "Haiti",
+        "code": "HT",
+        "currency": "?",
         "ppp": 73.2838
     },
     {
-        "country": "Honduras",
-        "country_code": "HN",
-        "currency_symbol": "?",
+        "name": "Honduras",
+        "code": "HN",
+        "currency": "?",
         "ppp": 11.0748
     },
     {
-        "country": "Hong Kong SAR, China",
-        "country_code": "HK",
-        "currency_symbol": "?",
+        "name": "Hong Kong SAR, China",
+        "code": "HK",
+        "currency": "?",
         "ppp": 5.5297
     },
     {
-        "country": "Hungary",
-        "country_code": "HU",
-        "currency_symbol": "?",
+        "name": "Hungary",
+        "code": "HU",
+        "currency": "?",
         "ppp": 174.1018
     },
     {
-        "country": "Iceland",
-        "country_code": "IS",
-        "currency_symbol": "?",
+        "name": "Iceland",
+        "code": "IS",
+        "currency": "?",
         "ppp": 144.2415
     },
     {
-        "country": "India",
-        "country_code": "IN",
-        "currency_symbol": "INR",
+        "name": "India",
+        "code": "IN",
+        "currency": "INR",
         "ppp": 20.2026
     },
     {
-        "country": "Indonesia",
-        "country_code": "ID",
-        "currency_symbol": "?",
+        "name": "Indonesia",
+        "code": "ID",
+        "currency": "?",
         "ppp": 4819.7807
     },
     {
-        "country": "Iran, Islamic Rep.",
-        "country_code": "IR",
-        "currency_symbol": "?",
+        "name": "Iran, Islamic Rep.",
+        "code": "IR",
+        "currency": "?",
         "ppp": 89391.8127
     },
     {
-        "country": "Iraq",
-        "country_code": "IQ",
-        "currency_symbol": "?",
+        "name": "Iraq",
+        "code": "IQ",
+        "currency": "?",
         "ppp": 519.0445
     },
     {
-        "country": "Ireland",
-        "country_code": "IE",
-        "currency_symbol": "?",
+        "name": "Ireland",
+        "code": "IE",
+        "currency": "?",
         "ppp": 0.7712
     },
     {
-        "country": "Israel",
-        "country_code": "IL",
-        "currency_symbol": "?",
+        "name": "Israel",
+        "code": "IL",
+        "currency": "?",
         "ppp": 3.5667
     },
     {
-        "country": "Italy",
-        "country_code": "IT",
-        "currency_symbol": "?",
+        "name": "Italy",
+        "code": "IT",
+        "currency": "?",
         "ppp": 0.6257
     },
     {
-        "country": "Jamaica",
-        "country_code": "JM",
-        "currency_symbol": "?",
+        "name": "Jamaica",
+        "code": "JM",
+        "currency": "?",
         "ppp": 92.3154
     },
     {
-        "country": "Japan",
-        "country_code": "JP",
-        "currency_symbol": "Yen",
+        "name": "Japan",
+        "code": "JP",
+        "currency": "Yen",
         "ppp": 95.0963
     },
     {
-        "country": "Jordan",
-        "country_code": "JO",
-        "currency_symbol": "?",
+        "name": "Jordan",
+        "code": "JO",
+        "currency": "?",
         "ppp": 0.3044
     },
     {
-        "country": "Kazakhstan",
-        "country_code": "KZ",
-        "currency_symbol": "?",
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "currency": "?",
         "ppp": 153.0081
     },
     {
-        "country": "Kenya",
-        "country_code": "KE",
-        "currency_symbol": "?",
+        "name": "Kenya",
+        "code": "KE",
+        "currency": "?",
         "ppp": 43.2872
     },
     {
-        "country": "Kiribati",
-        "country_code": "KI",
-        "currency_symbol": "?",
+        "name": "Kiribati",
+        "code": "KI",
+        "currency": "?",
         "ppp": 0.894
     },
     {
-        "country": "Korea, Rep.",
-        "country_code": "KR",
-        "currency_symbol": "?",
+        "name": "Korea, Rep.",
+        "code": "KR",
+        "currency": "?",
         "ppp": 836.2526
     },
     {
-        "country": "Kosovo",
-        "country_code": "XK",
-        "currency_symbol": "?",
+        "name": "Kosovo",
+        "code": "XK",
+        "currency": "?",
         "ppp": 0.364
     },
     {
-        "country": "Kuwait",
-        "country_code": "KW",
-        "currency_symbol": "?",
+        "name": "Kuwait",
+        "code": "KW",
+        "currency": "?",
         "ppp": 0.201
     },
     {
-        "country": "Kyrgyz Republic",
-        "country_code": "KG",
-        "currency_symbol": "?",
+        "name": "Kyrgyz Republic",
+        "code": "KG",
+        "currency": "?",
         "ppp": 24.3567
     },
     {
-        "country": "Lao PDR",
-        "country_code": "LA",
-        "currency_symbol": "?",
+        "name": "Lao PDR",
+        "code": "LA",
+        "currency": "?",
         "ppp": 3934.8736
     },
     {
-        "country": "Latvia",
-        "country_code": "LV",
-        "currency_symbol": "?",
+        "name": "Latvia",
+        "code": "LV",
+        "currency": "?",
         "ppp": 0.5029
     },
     {
-        "country": "Lesotho",
-        "country_code": "LS",
-        "currency_symbol": "?",
+        "name": "Lesotho",
+        "code": "LS",
+        "currency": "?",
         "ppp": 5.868
     },
     {
-        "country": "Liberia",
-        "country_code": "LR",
-        "currency_symbol": "?",
+        "name": "Liberia",
+        "code": "LR",
+        "currency": "?",
         "ppp": 0.4301
     },
     {
-        "country": "Libya",
-        "country_code": "LY",
-        "currency_symbol": "?",
+        "name": "Libya",
+        "code": "LY",
+        "currency": "?",
         "ppp": 2.1452
     },
     {
-        "country": "Lithuania",
-        "country_code": "LT",
-        "currency_symbol": "?",
+        "name": "Lithuania",
+        "code": "LT",
+        "currency": "?",
         "ppp": 0.506
     },
     {
-        "country": "Luxembourg",
-        "country_code": "LU",
-        "currency_symbol": "?",
+        "name": "Luxembourg",
+        "code": "LU",
+        "currency": "?",
         "ppp": 0.8555
     },
     {
-        "country": "Macao SAR, China",
-        "country_code": "MO",
-        "currency_symbol": "?",
+        "name": "Macao SAR, China",
+        "code": "MO",
+        "currency": "?",
         "ppp": 4.6707
     },
     {
-        "country": "Madagascar",
-        "country_code": "MG",
-        "currency_symbol": "?",
+        "name": "Madagascar",
+        "code": "MG",
+        "currency": "?",
         "ppp": 1229.3298
     },
     {
-        "country": "Malawi",
-        "country_code": "MW",
-        "currency_symbol": "?",
+        "name": "Malawi",
+        "code": "MW",
+        "currency": "?",
         "ppp": 382.2765
     },
     {
-        "country": "Malaysia",
-        "country_code": "MY",
-        "currency_symbol": "?",
+        "name": "Malaysia",
+        "code": "MY",
+        "currency": "?",
         "ppp": 1.4251
     },
     {
-        "country": "Maldives",
-        "country_code": "MV",
-        "currency_symbol": "?",
+        "name": "Maldives",
+        "code": "MV",
+        "currency": "?",
         "ppp": 7.7947
     },
     {
-        "country": "Mali",
-        "country_code": "ML",
-        "currency_symbol": "?",
+        "name": "Mali",
+        "code": "ML",
+        "currency": "?",
         "ppp": 198.3935
     },
     {
-        "country": "Malta",
-        "country_code": "MT",
-        "currency_symbol": "?",
+        "name": "Malta",
+        "code": "MT",
+        "currency": "?",
         "ppp": 0.5906
     },
     {
-        "country": "Marshall Islands",
-        "country_code": "MH",
-        "currency_symbol": "?",
+        "name": "Marshall Islands",
+        "code": "MH",
+        "currency": "?",
         "ppp": 0.8866
     },
     {
-        "country": "Mauritania",
-        "country_code": "MR",
-        "currency_symbol": "?",
+        "name": "Mauritania",
+        "code": "MR",
+        "currency": "?",
         "ppp": 11.1409
     },
     {
-        "country": "Mauritius",
-        "country_code": "MU",
-        "currency_symbol": "?",
+        "name": "Mauritius",
+        "code": "MU",
+        "currency": "?",
         "ppp": 17.8132
     },
     {
-        "country": "Mexico",
-        "country_code": "MX",
-        "currency_symbol": "?",
+        "name": "Mexico",
+        "code": "MX",
+        "currency": "?",
         "ppp": 9.888
     },
     {
-        "country": "Micronesia, Fed. Sts.",
-        "country_code": "FM",
-        "currency_symbol": "?",
+        "name": "Micronesia, Fed. Sts.",
+        "code": "FM",
+        "currency": "?",
         "ppp": 0.9468
     },
     {
-        "country": "Moldova",
-        "country_code": "MD",
-        "currency_symbol": "?",
+        "name": "Moldova",
+        "code": "MD",
+        "currency": "?",
         "ppp": 6.9463
     },
     {
-        "country": "Mongolia",
-        "country_code": "MN",
-        "currency_symbol": "?",
+        "name": "Mongolia",
+        "code": "MN",
+        "currency": "?",
         "ppp": 1123.8725
     },
     {
-        "country": "Montenegro",
-        "country_code": "ME",
-        "currency_symbol": "?",
+        "name": "Montenegro",
+        "code": "ME",
+        "currency": "?",
         "ppp": 0.3659
     },
     {
-        "country": "Morocco",
-        "country_code": "MA",
-        "currency_symbol": "?",
+        "name": "Morocco",
+        "code": "MA",
+        "currency": "?",
         "ppp": 3.8826
     },
     {
-        "country": "Mozambique",
-        "country_code": "MZ",
-        "currency_symbol": "?",
+        "name": "Mozambique",
+        "code": "MZ",
+        "currency": "?",
         "ppp": 23.7232
     },
     {
-        "country": "Myanmar",
-        "country_code": "MM",
-        "currency_symbol": "?",
+        "name": "Myanmar",
+        "code": "MM",
+        "currency": "?",
         "ppp": 435.0004
     },
     {
-        "country": "Namibia",
-        "country_code": "NaN",
-        "currency_symbol": "?",
+        "name": "Namibia",
+        "code": "NaN",
+        "currency": "?",
         "ppp": 6.8556
     },
     {
-        "country": "Nauru",
-        "country_code": "NR",
-        "currency_symbol": "?",
+        "name": "Nauru",
+        "code": "NR",
+        "currency": "?",
         "ppp": 1.3946
     },
     {
-        "country": "Nepal",
-        "country_code": "NP",
-        "currency_symbol": "?",
+        "name": "Nepal",
+        "code": "NP",
+        "currency": "?",
         "ppp": 33.3946
     },
     {
-        "country": "Netherlands",
-        "country_code": "NL",
-        "currency_symbol": "?",
+        "name": "Netherlands",
+        "code": "NL",
+        "currency": "?",
         "ppp": 0.7646
     },
     {
-        "country": "New Zealand",
-        "country_code": "NZ",
-        "currency_symbol": "?",
+        "name": "New Zealand",
+        "code": "NZ",
+        "currency": "?",
         "ppp": 1.4701
     },
     {
-        "country": "Nicaragua",
-        "country_code": "NI",
-        "currency_symbol": "?",
+        "name": "Nicaragua",
+        "code": "NI",
+        "currency": "?",
         "ppp": 11.4589
     },
     {
-        "country": "Niger",
-        "country_code": "NE",
-        "currency_symbol": "?",
+        "name": "Niger",
+        "code": "NE",
+        "currency": "?",
         "ppp": 206.287
     },
     {
-        "country": "Nigeria",
-        "country_code": "NG",
-        "currency_symbol": "?",
+        "name": "Nigeria",
+        "code": "NG",
+        "currency": "?",
         "ppp": 165.7229
     },
     {
-        "country": "North Macedonia",
-        "country_code": "MK",
-        "currency_symbol": "?",
+        "name": "North Macedonia",
+        "code": "MK",
+        "currency": "?",
         "ppp": 20.1883
     },
     {
-        "country": "Norway",
-        "country_code": "NO",
-        "currency_symbol": "?",
+        "name": "Norway",
+        "code": "NO",
+        "currency": "?",
         "ppp": 9.2262
     },
     {
-        "country": "Oman",
-        "country_code": "OM",
-        "currency_symbol": "?",
+        "name": "Oman",
+        "code": "OM",
+        "currency": "?",
         "ppp": 0.1949
     },
     {
-        "country": "Pakistan",
-        "country_code": "PK",
-        "currency_symbol": "?",
+        "name": "Pakistan",
+        "code": "PK",
+        "currency": "?",
         "ppp": 56.1914
     },
     {
-        "country": "Palau",
-        "country_code": "PW",
-        "currency_symbol": "?",
+        "name": "Palau",
+        "code": "PW",
+        "currency": "?",
         "ppp": 0.9069
     },
     {
-        "country": "Panama",
-        "country_code": "PA",
-        "currency_symbol": "?",
+        "name": "Panama",
+        "code": "PA",
+        "currency": "?",
         "ppp": 0.4695
     },
     {
-        "country": "Papua New Guinea",
-        "country_code": "PG",
-        "currency_symbol": "?",
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "currency": "?",
         "ppp": 2.2981
     },
     {
-        "country": "Paraguay",
-        "country_code": "PY",
-        "currency_symbol": "?",
+        "name": "Paraguay",
+        "code": "PY",
+        "currency": "?",
         "ppp": 2611.6371
     },
     {
-        "country": "Peru",
-        "country_code": "PE",
-        "currency_symbol": "?",
+        "name": "Peru",
+        "code": "PE",
+        "currency": "?",
         "ppp": 1.7439
     },
     {
-        "country": "Philippines",
-        "country_code": "PH",
-        "currency_symbol": "?",
+        "name": "Philippines",
+        "code": "PH",
+        "currency": "?",
         "ppp": 19.2623
     },
     {
-        "country": "Poland",
-        "country_code": "PL",
-        "currency_symbol": "?",
+        "name": "Poland",
+        "code": "PL",
+        "currency": "?",
         "ppp": 1.9961
     },
     {
-        "country": "Portugal",
-        "country_code": "PT",
-        "currency_symbol": "?",
+        "name": "Portugal",
+        "code": "PT",
+        "currency": "?",
         "ppp": 0.5354
     },
     {
-        "country": "Puerto Rico",
-        "country_code": "PR",
-        "currency_symbol": "?",
+        "name": "Puerto Rico",
+        "code": "PR",
+        "currency": "?",
         "ppp": 0.7708
     },
     {
-        "country": "Qatar",
-        "country_code": "QA",
-        "currency_symbol": "?",
+        "name": "Qatar",
+        "code": "QA",
+        "currency": "?",
         "ppp": 2.2643
     },
     {
-        "country": "Romania",
-        "country_code": "RO",
-        "currency_symbol": "?",
+        "name": "Romania",
+        "code": "RO",
+        "currency": "?",
         "ppp": 1.8438
     },
     {
-        "country": "Russian Federation",
-        "country_code": "RU",
-        "currency_symbol": "?",
+        "name": "Russian Federation",
+        "code": "RU",
+        "currency": "?",
         "ppp": 26.6701
     },
     {
-        "country": "Rwanda",
-        "country_code": "RW",
-        "currency_symbol": "?",
+        "name": "Rwanda",
+        "code": "RW",
+        "currency": "?",
         "ppp": 345.0995
     },
     {
-        "country": "Samoa",
-        "country_code": "WS",
-        "currency_symbol": "?",
+        "name": "Samoa",
+        "code": "WS",
+        "currency": "?",
         "ppp": 1.6898
     },
     {
-        "country": "Sao Tome and Principe",
-        "country_code": "ST",
-        "currency_symbol": "?",
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "currency": "?",
         "ppp": 10.9166
     },
     {
-        "country": "Saudi Arabia",
-        "country_code": "SA",
-        "currency_symbol": "?",
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "currency": "?",
         "ppp": 1.9697
     },
     {
-        "country": "Senegal",
-        "country_code": "SN",
-        "currency_symbol": "?",
+        "name": "Senegal",
+        "code": "SN",
+        "currency": "?",
         "ppp": 216.0257
     },
     {
-        "country": "Serbia",
-        "country_code": "RS",
-        "currency_symbol": "?",
+        "name": "Serbia",
+        "code": "RS",
+        "currency": "?",
         "ppp": 46.4303
     },
     {
-        "country": "Seychelles",
-        "country_code": "SC",
-        "currency_symbol": "?",
+        "name": "Seychelles",
+        "code": "SC",
+        "currency": "?",
         "ppp": 7.6632
     },
     {
-        "country": "Sierra Leone",
-        "country_code": "SL",
-        "currency_symbol": "?",
+        "name": "Sierra Leone",
+        "code": "SL",
+        "currency": "?",
         "ppp": 4.7947
     },
     {
-        "country": "Singapore",
-        "country_code": "SG",
-        "currency_symbol": "?",
+        "name": "Singapore",
+        "code": "SG",
+        "currency": "?",
         "ppp": 0.8038
     },
     {
-        "country": "Sint Maarten (Dutch part)",
-        "country_code": "SX",
-        "currency_symbol": "?",
+        "name": "Sint Maarten (Dutch part)",
+        "code": "SX",
+        "currency": "?",
         "ppp": 1.3679
     },
     {
-        "country": "Slovak Republic",
-        "country_code": "SK",
-        "currency_symbol": "?",
+        "name": "Slovak Republic",
+        "code": "SK",
+        "currency": "?",
         "ppp": 0.5206
     },
     {
-        "country": "Slovenia",
-        "country_code": "SI",
-        "currency_symbol": "?",
+        "name": "Slovenia",
+        "code": "SI",
+        "currency": "?",
         "ppp": 0.5604
     },
     {
-        "country": "Solomon Islands",
-        "country_code": "SB",
-        "currency_symbol": "?",
+        "name": "Solomon Islands",
+        "code": "SB",
+        "currency": "?",
         "ppp": 6.0802
     },
     {
-        "country": "Somalia",
-        "country_code": "SO",
-        "currency_symbol": "?",
+        "name": "Somalia",
+        "code": "SO",
+        "currency": "?",
         "ppp": 10440.8848
     },
     {
-        "country": "South Africa",
-        "country_code": "ZA",
-        "currency_symbol": "?",
+        "name": "South Africa",
+        "code": "ZA",
+        "currency": "?",
         "ppp": 7.3131
     },
     {
-        "country": "Spain",
-        "country_code": "ES",
-        "currency_symbol": "?",
+        "name": "Spain",
+        "code": "ES",
+        "currency": "?",
         "ppp": 0.5837
     },
     {
-        "country": "Sri Lanka",
-        "country_code": "LK",
-        "currency_symbol": "?",
+        "name": "Sri Lanka",
+        "code": "LK",
+        "currency": "?",
         "ppp": 86.7027
     },
     {
-        "country": "St. Kitts and Nevis",
-        "country_code": "KN",
-        "currency_symbol": "?",
+        "name": "St. Kitts and Nevis",
+        "code": "KN",
+        "currency": "?",
         "ppp": 1.8059
     },
     {
-        "country": "St. Lucia",
-        "country_code": "LC",
-        "currency_symbol": "?",
+        "name": "St. Lucia",
+        "code": "LC",
+        "currency": "?",
         "ppp": 1.409
     },
     {
-        "country": "St. Vincent and the Grenadines",
-        "country_code": "VC",
-        "currency_symbol": "?",
+        "name": "St. Vincent and the Grenadines",
+        "code": "VC",
+        "currency": "?",
         "ppp": 1.3959
     },
     {
-        "country": "Sudan",
-        "country_code": "SD",
-        "currency_symbol": "?",
+        "name": "Sudan",
+        "code": "SD",
+        "currency": "?",
         "ppp": 525.523
     },
     {
-        "country": "Suriname",
-        "country_code": "SR",
-        "currency_symbol": "?",
+        "name": "Suriname",
+        "code": "SR",
+        "currency": "?",
         "ppp": 9.5597
     },
     {
-        "country": "Sweden",
-        "country_code": "SE",
-        "currency_symbol": "?",
+        "name": "Sweden",
+        "code": "SE",
+        "currency": "?",
         "ppp": 8.7885
     },
     {
-        "country": "Switzerland",
-        "country_code": "CH",
-        "currency_symbol": "?",
+        "name": "Switzerland",
+        "code": "CH",
+        "currency": "?",
         "ppp": 1.0016
     },
     {
-        "country": "Tajikistan",
-        "country_code": "TJ",
-        "currency_symbol": "?",
+        "name": "Tajikistan",
+        "code": "TJ",
+        "currency": "?",
         "ppp": 2.5362
     },
     {
-        "country": "Tanzania",
-        "country_code": "TZ",
-        "currency_symbol": "?",
+        "name": "Tanzania",
+        "code": "TZ",
+        "currency": "?",
         "ppp": 725.8523
     },
     {
-        "country": "Thailand",
-        "country_code": "TH",
-        "currency_symbol": "?",
+        "name": "Thailand",
+        "code": "TH",
+        "currency": "?",
         "ppp": 10.652
     },
     {
-        "country": "Timor-Leste",
-        "country_code": "TL",
-        "currency_symbol": "?",
+        "name": "Timor-Leste",
+        "code": "TL",
+        "currency": "?",
         "ppp": 0.3128
     },
     {
-        "country": "Togo",
-        "country_code": "TG",
-        "currency_symbol": "?",
+        "name": "Togo",
+        "code": "TG",
+        "currency": "?",
         "ppp": 194.658
     },
     {
-        "country": "Trinidad and Tobago",
-        "country_code": "TT",
-        "currency_symbol": "?",
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "currency": "?",
         "ppp": 3.8397
     },
     {
-        "country": "Tunisia",
-        "country_code": "TN",
-        "currency_symbol": "?",
+        "name": "Tunisia",
+        "code": "TN",
+        "currency": "?",
         "ppp": 0.8871
     },
     {
-        "country": "Turkiye",
-        "country_code": "TR",
-        "currency_symbol": "?",
+        "name": "Turkiye",
+        "code": "TR",
+        "currency": "?",
         "ppp": 7.3693
     },
     {
-        "country": "Turkmenistan",
-        "country_code": "TM",
-        "currency_symbol": "?",
+        "name": "Turkmenistan",
+        "code": "TM",
+        "currency": "?",
         "ppp": 1.4531
     },
     {
-        "country": "Turks and Caicos Islands",
-        "country_code": "TC",
-        "currency_symbol": "?",
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "currency": "?",
         "ppp": 1.2259
     },
     {
-        "country": "Tuvalu",
-        "country_code": "TV",
-        "currency_symbol": "?",
+        "name": "Tuvalu",
+        "code": "TV",
+        "currency": "?",
         "ppp": 1.5526
     },
     {
-        "country": "Uganda",
-        "country_code": "UG",
-        "currency_symbol": "?",
+        "name": "Uganda",
+        "code": "UG",
+        "currency": "?",
         "ppp": 1214.1971
     },
     {
-        "country": "Ukraine",
-        "country_code": "UA",
-        "currency_symbol": "?",
+        "name": "Ukraine",
+        "code": "UA",
+        "currency": "?",
         "ppp": 10.5171
     },
     {
-        "country": "United Arab Emirates",
-        "country_code": "AE",
-        "currency_symbol": "?",
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "currency": "?",
         "ppp": 2.3663
     },
     {
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "currency_symbol": "\u00a3",
+        "name": "United Kingdom",
+        "code": "GB",
+        "currency": "$",
         "ppp": 0.6829
     },
     {
-        "country": "United States",
-        "country_code": "US",
-        "currency_symbol": "$",
+        "name": "United States",
+        "code": "US",
+        "currency": "$",
         "ppp": 1.0
     },
     {
-        "country": "Uruguay",
-        "country_code": "UY",
-        "currency_symbol": "?",
+        "name": "Uruguay",
+        "code": "UY",
+        "currency": "?",
         "ppp": 25.7081
     },
     {
-        "country": "Uzbekistan",
-        "country_code": "UZ",
-        "currency_symbol": "?",
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "currency": "?",
         "ppp": 3010.5938
     },
     {
-        "country": "Vanuatu",
-        "country_code": "VU",
-        "currency_symbol": "?",
+        "name": "Vanuatu",
+        "code": "VU",
+        "currency": "?",
         "ppp": 120.9814
     },
     {
-        "country": "Viet Nam",
-        "country_code": "VN",
-        "currency_symbol": "?",
+        "name": "Viet Nam",
+        "code": "VN",
+        "currency": "?",
         "ppp": 6802.4707
     },
     {
-        "country": "West Bank and Gaza",
-        "country_code": "PS",
-        "currency_symbol": "?",
+        "name": "West Bank and Gaza",
+        "code": "PS",
+        "currency": "?",
         "ppp": 0.5719
     },
     {
-        "country": "Zambia",
-        "country_code": "ZM",
-        "currency_symbol": "?",
+        "name": "Zambia",
+        "code": "ZM",
+        "currency": "?",
         "ppp": 6.5972
     },
     {
-        "country": "Zimbabwe",
-        "country_code": "ZW",
-        "currency_symbol": "?",
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "currency": "?",
         "ppp": 2141.7262
     }
 ]
